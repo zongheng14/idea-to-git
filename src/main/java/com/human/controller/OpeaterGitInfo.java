@@ -10,5 +10,6 @@ public class OpeaterGitInfo {
 
     private String getGitInfo(){
         System.out.println("~~~……………………");
+        return null;
     }
 }
